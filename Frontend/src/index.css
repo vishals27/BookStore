@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Federo&family=Poppins:wght@500&display=swap');
+@import "tailwindcss";
+@plugin "daisyui";
+
+@variant dark (&:where(.dark, .dark *));
+
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.text-federo {
+    font-family: 'Federo', sans-serif;
+}

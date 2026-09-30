@@ -1,0 +1,322 @@
+[
+    {
+        "id": 1,
+        "name": "Science Fiction",
+        "title": "Explore futuristic adventures",
+        "category": "Free",
+        "price": 0,
+        "image": "https://img.magnific.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Horror Stories",
+        "title": "Scary stories that keep you awake",
+        "category": "Free",
+        "price": 0,
+        "image": "https://img.magnific.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Adventure Tales",
+        "title": "An exciting journey into the unknown",
+        "category": "Free",
+        "price": 0,
+        "image": "https://img.magnific.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Motivational Book",
+        "title": "Inspire yourself every single day",
+        "category": "Free",
+        "price": 0,
+        "image": "https://img.magnific.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Cooking Recipes",
+        "title": "Easy and delicious recipes",
+        "category": "Free",
+        "price": 0,
+        "image": "https://img.magnific.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Travel Guide",
+        "title": "Discover amazing places around the world",
+        "category": "Free",
+        "price": 0,
+        "image": "https://img.magnific.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Health & Fitness",
+        "title": "Healthy habits for a better lifestyle",
+        "category": "Free",
+        "price": 0,
+        "image": "https://img.magnific.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Poetry Collection",
+        "title": "A collection of inspiring poems",
+        "category": "Free",
+        "price": 0,
+        "image": "https://img.magnific.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 9,
+        "name": "History of India",
+        "title": "Discover India's glorious past",
+        "category": "Free",
+        "price": 0,
+        "image": "https://img.magnific.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 10,
+        "name": "English Grammar",
+        "title": "Master English grammar with ease",
+        "category": "Free",
+        "price": 0,
+        "image": "https://img.magnific.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Kids Stories",
+        "title": "Fun stories for children",
+        "category": "Free",
+        "price": 0,
+        "image": "https://img.magnific.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Nature Wonders",
+        "title": "Explore the beauty of nature",
+        "category": "Free",
+        "price": 0,
+        "image": "https://img.magnific.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Space Explorer",
+        "title": "A journey through the universe",
+        "category": "Free",
+        "price": 0,
+        "image": "https://img.magnific.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Mindfulness",
+        "title": "Find peace in everyday life",
+        "category": "Free",
+        "price": 0,
+        "image": "https://img.magnific.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Drawing Basics",
+        "title": "Learn drawing step by step",
+        "category": "Free",
+        "price": 0,
+        "image": "https://img.magnific.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Photography Guide",
+        "title": "Capture beautiful moments",
+        "category": "Free",
+        "price": 0,
+        "image": "https://img.magnific.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Yoga for Beginners",
+        "title": "Simple yoga poses for everyone",
+        "category": "Free",
+        "price": 0,
+        "image": "https://img.magnific.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Public Speaking",
+        "title": "Improve your speaking skills",
+        "category": "Free",
+        "price": 0,
+        "image": "https://img.magnific.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Personal Finance",
+        "title": "Manage your money wisely",
+        "category": "Free",
+        "price": 0,
+        "image": "https://img.magnific.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Communication Skills",
+        "title": "Become a confident communicator",
+        "category": "Free",
+        "price": 0,
+        "image": "https://img.magnific.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 21,
+        "name": "The Silent Forest",
+        "title": "A mysterious journey through an ancient forest",
+        "category": "Paid",
+        "price": 35,
+        "image": "https://img.magnific.com/vecteurs-libre/pile-livres-design-plat-dessines-main_23-2149338884.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Hidden Truth",
+        "title": "A suspense novel full of unexpected twists",
+        "category": "Paid",
+        "price": 40,
+        "image": "https://img.magnific.com/vecteurs-libre/pile-livres-design-plat-dessines-main_23-2149338884.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Lost Kingdom",
+        "title": "An epic fantasy adventure",
+        "category": "Paid",
+        "price": 55,
+        "image": "https://img.magnific.com/vecteurs-libre/pile-livres-design-plat-dessines-main_23-2149338884.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Forever Yours",
+        "title": "A timeless love story",
+        "category": "Paid",
+        "price": 30,
+        "image": "https://img.magnific.com/vecteurs-libre/pile-livres-design-plat-dessines-main_23-2149338884.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Crimson Sky",
+        "title": "Adventure beneath a crimson sunset",
+        "category": "Paid",
+        "price": 42,
+        "image": "https://img.magnific.com/vecteurs-libre/pile-livres-design-plat-dessines-main_23-2149338884.jpg"
+    },
+    {
+        "id": 26,
+        "name": "The Last Witness",
+        "title": "A gripping courtroom thriller",
+        "category": "Paid",
+        "price": 48,
+        "image": "https://img.magnific.com/vecteurs-libre/pile-livres-design-plat-dessines-main_23-2149338884.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Dream Big",
+        "title": "Unlock your true potential",
+        "category": "Paid",
+        "price": 25,
+        "image": "https://img.magnific.com/vecteurs-libre/pile-livres-design-plat-dessines-main_23-2149338884.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Healthy Living",
+        "title": "Simple habits for a healthier life",
+        "category": "Paid",
+        "price": 38,
+        "image": "https://img.magnific.com/vecteurs-libre/pile-livres-design-plat-dessines-main_23-2149338884.jpg"
+    },
+    {
+        "id": 29,
+        "name": "World Explorer",
+        "title": "Travel to the world's greatest destinations",
+        "category": "Paid",
+        "price": 45,
+        "image": "https://img.magnific.com/vecteurs-libre/pile-livres-design-plat-dessines-main_23-2149338884.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Mind Over Matter",
+        "title": "Train your mind for success",
+        "category": "Paid",
+        "price": 32,
+        "image": "https://img.magnific.com/vecteurs-libre/pile-livres-design-plat-dessines-main_23-2149338884.jpg"
+    },
+    {
+        "id": 31,
+        "name": "Golden Dreams",
+        "title": "Follow your dreams with confidence",
+        "category": "Paid",
+        "price": 36,
+        "image": "https://img.magnific.com/vecteurs-libre/pile-livres-design-plat-dessines-main_23-2149338884.jpg"
+    },
+    {
+        "id": 32,
+        "name": "The Secret Island",
+        "title": "A hidden island full of mysteries",
+        "category": "Paid",
+        "price": 50,
+        "image": "https://img.magnific.com/vecteurs-libre/pile-livres-design-plat-dessines-main_23-2149338884.jpg"
+    },
+    {
+        "id": 33,
+        "name": "Ocean Explorer",
+        "title": "Dive into underwater adventures",
+        "category": "Paid",
+        "price": 47,
+        "image": "https://img.magnific.com/vecteurs-libre/pile-livres-design-plat-dessines-main_23-2149338884.jpg"
+    },
+    {
+        "id": 34,
+        "name": "Happy Mind",
+        "title": "Build a peaceful and happy mindset",
+        "category": "Paid",
+        "price": 29,
+        "image": "https://img.magnific.com/vecteurs-libre/pile-livres-design-plat-dessines-main_23-2149338884.jpg"
+    },
+    {
+        "id": 35,
+        "name": "Legends of India",
+        "title": "Stories of India's greatest heroes",
+        "category": "Paid",
+        "price": 58,
+        "image": "https://img.magnific.com/vecteurs-libre/pile-livres-design-plat-dessines-main_23-2149338884.jpg"
+    },
+    {
+        "id": 36,
+        "name": "Moonlight Love",
+        "title": "A beautiful romantic novel",
+        "category": "Paid",
+        "price": 34,
+        "image": "https://img.magnific.com/vecteurs-libre/pile-livres-design-plat-dessines-main_23-2149338884.jpg"
+    },
+    {
+        "id": 37,
+        "name": "The Missing Key",
+        "title": "Solve an unforgettable mystery",
+        "category": "Paid",
+        "price": 46,
+        "image": "https://img.magnific.com/vecteurs-libre/pile-livres-design-plat-dessines-main_23-2149338884.jpg"
+    },
+    {
+        "id": 38,
+        "name": "Journey Beyond",
+        "title": "A life-changing adventure",
+        "category": "Paid",
+        "price": 39,
+        "image": "https://img.magnific.com/vecteurs-libre/pile-livres-design-plat-dessines-main_23-2149338884.jpg"
+    },
+    {
+        "id": 39,
+        "name": "Winning Every Day",
+        "title": "Develop habits for lasting success",
+        "category": "Paid",
+        "price": 33,
+        "image": "https://img.magnific.com/vecteurs-libre/pile-livres-design-plat-dessines-main_23-2149338884.jpg"
+    },
+    {
+        "id": 40,
+        "name": "Whispering Shadows",
+        "title": "A thrilling mystery in the dark",
+        "category": "Paid",
+        "price": 52,
+        "image": "https://img.magnific.com/vecteurs-libre/pile-livres-design-plat-dessines-main_23-2149338884.jpg"
+    }
+]

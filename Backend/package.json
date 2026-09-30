@@ -1,0 +1,32 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/30namrata/BookStore#readme",
+  "bugs": {
+    "url": "https://github.com/30namrata/BookStore/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/30namrata/BookStore.git"
+  },
+  "license": "ISC",
+  "author": "namrata",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongodb": "^7.3.0",
+    "mongoose": "^9.7.0",
+    "nodemon": "^3.1.14",
+    "router": "^2.2.0"
+  }
+}
