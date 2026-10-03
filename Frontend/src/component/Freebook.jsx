@@ -5,7 +5,7 @@ import Slider from "react-slick";
 import Cards from "./Cards";
 import axios from "axios";
 
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "https://backend-bookstore-runa.onrender.com";
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "https://book-store-oqtp.vercel.app";
 function Freebook() {
     const [book, setBook] = useState([]);
     useEffect(() => {
