@@ -9,6 +9,6 @@ const bookSchema = new mongoose.Schema({
 })
 
 //create model for schema holdes in container
-const Book = mongoose.model("books", bookSchema);
+const Book = mongoose.model("book", bookSchema);
 
 export default Book;
